@@ -1,0 +1,24 @@
+{
+  "name": "gcode-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lerouxb/gcode-simulator.git"
+  },
+  "author": "Le Roux Bodenstein <lerouxb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "byline": "^4.2.1",
+    "canvas": "^1.4.0",
+    "gifencoder": "^1.0.6",
+    "pull-stream": "^3.4.2",
+    "stream-to-pull-stream": "^1.6.9"
+  },
+  "devDependencies": {
+  }
+}

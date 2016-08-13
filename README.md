@@ -8,4 +8,4 @@ intended to be used with imgcat on the command line.
 Demo
 ----
 
-![img]('./simulation.gif')
+![img](simulation.gif)
